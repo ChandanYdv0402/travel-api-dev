@@ -6,7 +6,7 @@ tourist offers. This application is developed in
 microservice architecture that uses brokered messages
 for communication between components. Used CQRS, Event Sourcing and Saga patterns.
 
-Frontend side of this project can be found [here]([https://github.com/Microarchitecturovisco/travel-ui](https://github.com/ChandanYdv0402/travel-ui-dev-frontend)).
+Frontend side of this project can be found [here]((https://github.com/ChandanYdv0402/travel-ui-dev-frontend)).
 
 <div align="center">
   <img src="photos/result_get_offer_query.png" width="800"/>
